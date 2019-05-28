@@ -1,11 +1,16 @@
 _repo: An-essay-on-the-government-of-children-under-three-general-heads-viz-health-manners-and-educa__59551
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59551-h/images/cover.jpg
 creator:
   author:
     agent_name: Nelson, James
     gutenberg_agent_id: '50505'
     url: http://www.gutenberg.org/2009/agents/50505
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59551#An-essay-on-the-government-of-children-under-three-general-heads-viz-health-manners-and-educa_
 gutenberg_issued: '2019-05-19'
 gutenberg_type: Text
 identifiers:
